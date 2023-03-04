@@ -1,7 +1,7 @@
 ## Solving linear programming problems. Simplex method with tables
 * [Description](#description)
 * [Get started](#get-started)
-* [Project structure](#get-started)
+* [Project structure](#project-structure)
 * [Scheme of Simplex method](#scheme-of-simplex-method)
 * [Results](#results)
 
