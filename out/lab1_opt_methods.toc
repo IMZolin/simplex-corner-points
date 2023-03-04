@@ -1,0 +1,18 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Постановка задачи}{3}{section.1}%
+\contentsline {section}{\numberline {2}Исследование применимости метода}{3}{section.2}%
+\contentsline {section}{\numberline {3}Описание алгоритма}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Алгоритм симплекс метода}{3}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Описание}{3}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Блок-схема}{4}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Правило Блэнда}{4}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.2}Алгоритм перевода из общей в каноническую форму}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Алгоритм восстановления решения двойственной задачи по решению прямой}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Алгоритм перебора крайних точек}{6}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Решение поставленной задачи}{7}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Обоснование достоверности полученного решения}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Сравнительный анализ}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Теоретическая оценка алгоритмов}{9}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Дополнительные исследования}{9}{section.5}%
+\contentsline {section}{\numberline {6}Выводы}{11}{section.6}%
+\contentsline {section}{\numberline {7}Библиографический список}{11}{section.7}%
